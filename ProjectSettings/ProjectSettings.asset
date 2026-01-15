@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: d9fbe6c8556ce4f30adfa4a4dd6f7a95
+  productGUID: 519a38f76a1e7dd1085362382cc9b52e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -955,7 +955,7 @@ PlayerSettings:
   cloudProjectId: cc7fb3be-8e3b-427b-93fb-21a5291b3465
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Uploading tanks
+  projectName: SteelTank3d
   organizationId: prilepskiy_ae
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
