@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: m_PlayerNumber
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 872886939534109722, guid: a7e2c17ac3d0f9f1facf1fcb0f57854d, type: 3}
+      propertyPath: m_IsDirectControl
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2806511382732236586, guid: a7e2c17ac3d0f9f1facf1fcb0f57854d, type: 3}
       propertyPath: m_Name
       value: Tank 2
